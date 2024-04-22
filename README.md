@@ -2,9 +2,11 @@
 
 <h1 align="center">SIMULADOR DE CALCULADOR</h1>
 
-<img align="center" src="https://github.com/Luma2001/calculadora/assets/114626233/294e7b94-c01e-4b73-b80f-afc47eb52b88>
+<p align="center">
 
+![imagen](https://github.com/Luma2001/calculadora/assets/114626233/de3bfe8e-2a2d-43d1-943e-4371b5a617f5)
 
+</p>
 <p>Aplicación de conocimientos adquiridos de Javascripts básicos. Manejo de DOM.</p>
   
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
