@@ -1,6 +1,10 @@
 <em># simuladorCalculadora<em><br>
 
 <h1 align="center">SIMULADOR DE CALCULADOR</h1>
+
+![imagen](https://github.com/Luma2001/calculadora/assets/114626233/294e7b94-c01e-4b73-b80f-afc47eb52b88)
+
+
 <p>Aplicación de conocimientos adquiridos de Javascripts básicos. Manejo de DOM.</p>
   
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
@@ -15,7 +19,7 @@ A DIVERTIRSE!!!!!!
 https://github.com/Luma2001/calculadora.git
 
 <h3>Proyecto Publicado:</h3>
- https://luma2001.github.io/juegoadivinanza/
+ https://luma2001.github.io/calculadora/
 
 <h3>Tecnologías Utilizadas:</h3>
 <p>JAVASCRIPT</p>
