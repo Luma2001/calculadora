@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    transition: all.1s;
+
+}
+
+div{
+    height:43vw;
+    background-color: rgba(127, 255, 212, 50%);
+    display: grid;
+    place-content: center;
+}
+
+div form{
+    width: 36em;
+    height:31em;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 1px black;
+    background-color: rgba(250, 0, 230, 50%);
+    text-align: center;
+
+
+}
+div form input{
+    width: 5em;
+    height:5em;
+    margin: 1em;
+    border-top-left-radius: 20px;
+    box-shadow: 10px 10px 10px 1px black;
+
+}
+div form input:active{
+    transform: scale(90%)
+}
+
+.ventana{
+width: 90%;
+font-size: 1em;
+text-align: right;
+padding: 1em;
+
+}
