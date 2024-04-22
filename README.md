@@ -2,7 +2,7 @@
 
 <h1 align="center">SIMULADOR DE CALCULADOR</h1>
 
-![imagen](https://github.com/Luma2001/calculadora/assets/114626233/294e7b94-c01e-4b73-b80f-afc47eb52b88)
+<img align="center" src="https://github.com/Luma2001/calculadora/assets/114626233/294e7b94-c01e-4b73-b80f-afc47eb52b88>
 
 
 <p>Aplicación de conocimientos adquiridos de Javascripts básicos. Manejo de DOM.</p>
