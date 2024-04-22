@@ -12,7 +12,7 @@ A DIVERTIRSE!!!!!!
 </p>
 
 <h3>Acceso al Código:</h3>
-https://github.com/Luma2001/juegoadivinanza.git
+https://github.com/Luma2001/calculadora.git
 
 <h3>Proyecto Publicado:</h3>
  https://luma2001.github.io/juegoadivinanza/
