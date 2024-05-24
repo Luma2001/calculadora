@@ -3,42 +3,75 @@
     padding:0;
     box-sizing: border-box;
     transition: all.1s;
-
+}
+.blueviolet{
+    background-color: blueviolet;
+}
+.darkcyan{
+    background-color: darkcyan;
+}
+.grey{
+    background-color: dimgrey;
+}
+.btnrect{
+    border-radius: 10px;
+    width: 3em;
+    height: 3em;
+    margin: .3em;
 }
 
-div{
-    height:43vw;
-    background-color: rgba(127, 255, 212, 50%);
+main{
+    height:100vh;
+    background-color: rgb(42, 44, 43);
     display: grid;
     place-content: center;
-}
 
-div form{
-    width: 36em;
-    height:31em;
-    border-radius: 20px;
-    box-shadow: 10px 10px 10px 1px black;
-    background-color: rgba(250, 0, 230, 50%);
-    text-align: center;
+    form{
+        width: 36em;
+        height:31em;
+        border-radius: 20px;
+        box-shadow: 10px 10px 10px 1px black;
+        background-color: rgba(17,16,17, 50%);
+        text-align: center;
+        padding-top: 10px;
+
+        input{
+            width: 4em;
+            height: 4em;
+            margin: .5em;
+            border-radius: 50%;
+            background-color: rgba(17,16,17, 40%);
+            box-shadow: 10px 10px 10px 1px black;
+            color: white;
+            font-size: 16px;
+            font-weight: bolder;
+        }/*fin input*/
+
+        .ventana{
+            width: 90%;
+            color:rgb(6, 248, 103);
+            text-shadow: 2px 2px 2px rgb(53, 52, 52);
+            line-height: 1.2em;
+            font-size: 1em;
+            text-align: right;
+            padding: 1em;
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px;
+            border-bottom-left-radius: 0;
+            border-bottom-right-radius: 0;
+            background-color: darkgrey;    
+        }/*fin .ventana*/
+
+        input:active:not(.ventana){
+            transform: scale(90%)
+        }
+        
+
+    } /*fin form*/
+
+}/*fin main*/
 
 
-}
-div form input{
-    width: 5em;
-    height:5em;
-    margin: 1em;
-    border-top-left-radius: 20px;
-    box-shadow: 10px 10px 10px 1px black;
 
-}
-div form input:active{
-    transform: scale(90%)
-}
 
-.ventana{
-width: 90%;
-font-size: 1em;
-text-align: right;
-padding: 1em;
 
-}
