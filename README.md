@@ -1,6 +1,6 @@
 <em># simuladorCalculadora<em><br>
 
-<h1 align="center">SIMULADOR DE CALCULADOR</h1>
+<h1 align="center">SIMULADOR DE CALCULADORA</h1>
 
 <p align="center">
 
@@ -19,7 +19,7 @@ A DIVERTIRSE!!!!!!
 
 
 <h3>Calculadora Científica</h3>
-<p>Nueva versión de calculadora en donde se agregan botones para hacer calculos trigonométricos y algorítmicos</p>
+<p>Nueva versión de calculadora en donde se agregan botones para hacer cálculos trigonométricos y algorítmicos</p>
 
 ![imagen](https://github.com/Luma2001/calculadora/assets/114626233/1655c46a-7680-43f4-8e5e-4daf0fd40518)
 
