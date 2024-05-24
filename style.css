@@ -13,6 +13,12 @@
 .grey{
     background-color: dimgrey;
 }
+.btnrect{
+    border-radius: 10px;
+    width: 3em;
+    height: 3em;
+    margin: .3em;
+}
 
 main{
     height:100vh;
@@ -43,6 +49,8 @@ main{
 
         .ventana{
             width: 90%;
+            color:rgb(6, 248, 103);
+            text-shadow: 2px 2px 2px rgb(53, 52, 52);
             line-height: 1.2em;
             font-size: 1em;
             text-align: right;
