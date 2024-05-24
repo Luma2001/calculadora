@@ -17,6 +17,13 @@
 A DIVERTIRSE!!!!!!
 </p>
 
+
+<h3>Calculadora Científica</h3>
+<p>Nueva versión de calculadora en donde se agregan botones para hacer calculos trigonométricos y algorítmicos</p>
+
+![imagen](https://github.com/Luma2001/calculadora/assets/114626233/1655c46a-7680-43f4-8e5e-4daf0fd40518)
+
+
 <h3>Acceso al Código:</h3>
 https://github.com/Luma2001/calculadora.git
 
