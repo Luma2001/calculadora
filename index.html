@@ -10,16 +10,28 @@
 <body>
     <main>
         <form action="#" autocomplete="off" readonly>
-            <input class="ventana" type="textfield" value="" disabled readonly>
+            <input class="ventana" type="textfield" value="" placeholder="0" readonly>
             <br>
-            <input type="button" value="sin" class="btnrect" onclick="sen()">
-            <input type="button" value="cos" class="btnrect" onclick="cos()">
-            <input type="button" value="tan" class="btnrect" onclick="tan()">
-            <input type="button" value="log"   class="btnrect"onclick="log()">
-            <input type="button" value="ln"  class="btnrect" onclick="ln()">
-            <input type="button" value="√"  class="btnrect" onclick="sqrt()">
-            <input type="button" value="∛"  class="btnrect" onclick="cbrt()">
-            <br>
+            <div class="cientifica-base">
+                <input type="button" value="INV" class="btnrect grey" onclick="inv()">
+                <input type="button" value="sin" class="btnrect" onclick="sen()">
+                <input type="button" value="cos" class="btnrect" onclick="cos()">
+                <input type="button" value="tan" class="btnrect" onclick="tan()">
+                <input type="button" value="log"   class="btnrect"onclick="log()">
+                <input type="button" value="ln"  class="btnrect" onclick="ln()">
+                <input type="button" value="√"  class="btnrect" onclick="sqrt()">
+                <input type="button" value="∛"  class="btnrect" onclick="cbrt()">
+            </div>
+            <div class="cientifica-inv invisible">
+                <input type="button" value="INV" class="btnrect grey" onclick="inv()">
+                <input type="button" value="sin-1" class="btnrect" onclick="asen()">
+                <input type="button" value="cos-1" class="btnrect" onclick="acos()">
+                <input type="button" value="tan-1" class="btnrect" onclick="atan()">
+                <input type="button" value="10X"   class="btnrect"onclick="diezX()">
+                <input type="button" value="eX"  class="btnrect" onclick="eX()">
+                <input type="button" value="x2"  class="btnrect" onclick="psqrt()">
+                <input type="button" value="x3"  class="btnrect" onclick="pcbrt()">
+            </div>
             <input type="button" value="7" onclick="agregarAPantalla(7)">
             <input type="button" value="8" onclick="agregarAPantalla(8)">
             <input type="button" value="9" onclick="agregarAPantalla(9)">
@@ -40,12 +52,12 @@
             <br> 
             <input type="button" value="0" onclick="agregarAPantalla(0)">
             <input type="button" value="." class="grey" onclick="agregarAPantalla('.')">
-            <input type="button" value="C" class="grey" onclick="clear()">
+            <input type="button" value="C" class="grey" onclick="borrarNum()">
             <input type="button" value="+" class="grey" onclick="agregarAPantalla('+')">
-            <input type="button" value="=" class="darkcyan" onclick="ejecutar()">
+            <input type="button" value="=" class="darkcyan" onclick="calcular()">
             
             
         </form>  
-    </ma>
+    </main>
 </body>
 </html>
