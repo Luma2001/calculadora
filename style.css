@@ -20,6 +20,10 @@
     margin: .3em;
 }
 
+.invisible{
+    display:none;
+}
+
 main{
     height:100vh;
     background-color: rgb(42, 44, 43);
@@ -66,7 +70,6 @@ main{
             transform: scale(90%)
         }
         
-
     } /*fin form*/
 
 }/*fin main*/
