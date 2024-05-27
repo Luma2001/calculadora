@@ -18,10 +18,10 @@ A DIVERTIRSE!!!!!!
 </p>
 
 <h3>Acceso al Código:</h3>
-https://github.com/Luma2001/calculadora.git
+https://github.com/Luma2001/calculadoracientifica.git
 
 <h3>Proyecto Publicado:</h3>
- https://luma2001.github.io/calculadora/
+ https://luma2001.github.io/calculadoracientifica/
 
 <h3>Tecnologías Utilizadas:</h3>
 <p>JAVASCRIPT</p>
