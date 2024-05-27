@@ -21,7 +21,12 @@ A DIVERTIRSE!!!!!!
 <h3>Calculadora Científica</h3>
 <p>Nueva versión de calculadora en donde se agregan botones para hacer cálculos trigonométricos y algorítmicos</p>
 
-![imagen](https://github.com/Luma2001/calculadora/assets/114626233/1655c46a-7680-43f4-8e5e-4daf0fd40518)
+![imagen](https://github.com/Luma2001/calculadoracientifica/assets/114626233/7993eacd-1820-49e7-90cc-5e14545df9c0)
+
+<p>Se agrega un botón adicional INV que tiene como finalidad mostrar las operaciones inversas de seno, coseno, tangente, logaritmo de base 10, etc.</p>
+
+![imagen](https://github.com/Luma2001/calculadoracientifica/assets/114626233/3bdd7ec6-bda2-493a-8113-059b2cbdec1e)
+
 
 
 <h3>Acceso al Código:</h3>
