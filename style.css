@@ -18,10 +18,12 @@
     width: 3em;
     height: 3em;
     margin: .3em;
+    font-size: 14px;
 }
 
 .invisible{
     display:none;
+
 }
 
 main{
@@ -59,11 +61,15 @@ main{
             font-size: 1em;
             text-align: right;
             padding: 1em;
+            padding-right: 1.2em;
             border-top-left-radius: 20px;
             border-top-right-radius: 20px;
             border-bottom-left-radius: 0;
             border-bottom-right-radius: 0;
             background-color: darkgrey;    
+            &::placeholder{
+                padding-right: 1.2em;
+            }
         }/*fin .ventana*/
 
         input:active:not(.ventana){
